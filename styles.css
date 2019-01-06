@@ -81,6 +81,10 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 
+.camera-img{
+  width:400px;
+}
+
 .tag {
   background-color: #efefef;
   color: black;
